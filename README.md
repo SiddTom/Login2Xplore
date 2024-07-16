@@ -62,5 +62,5 @@ The setup instructions for a local proxy server to handle CORS issues are provid
 
 ---
 
-For any questions or support, please contact the project maintainer at [your-email@example.com].
+For any questions or support, please contact the project maintainer at siddhant.tomar2021@gmail.com.
 
